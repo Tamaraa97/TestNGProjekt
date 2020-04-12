@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-06T18:48:17 CEST" name="Default suite" finished-at="2020-04-06T18:48:17 CEST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2020-04-06T18:48:17 CEST" name="Default test" finished-at="2020-04-06T18:48:17 CEST" duration-ms="40">
+      <class name="Primer1.NewTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="beforeSuite" finished-at="2020-04-06T18:48:17 CEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="beforeMethod" finished-at="2020-04-06T18:48:17 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:1, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="test2" finished-at="2020-04-06T18:48:17 CEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="afterMethod" finished-at="2020-04-06T18:48:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="test1()[pri:2, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="test1" finished-at="2020-04-06T18:48:17 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="beforeMethod" finished-at="2020-04-06T18:48:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="afterMethod" finished-at="2020-04-06T18:48:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Primer1.NewTest@6a01e23]" started-at="2020-04-06T18:48:17 CEST" name="afterSuite" finished-at="2020-04-06T18:48:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Primer1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
